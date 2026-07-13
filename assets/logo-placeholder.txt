@@ -1,0 +1,3 @@
+Replace this file with your actual logo image named logo.png in the assets directory.
+
+Currently this is a placeholder instructing you how to add your custom logo. The presentation generator will pick up assets/logo.png if it exists.
